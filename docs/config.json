@@ -1,6 +1,6 @@
 {
     "title": "Pyro",
-    "tagline": "The Easiest Way To Document Your Project",
+    "tagline": "The Easiest Way To build Apps",
     "author": "Pyro Labs",
     "image": "<base_url>img/app.png",
     "theme": "daux-blue",
@@ -12,7 +12,6 @@
     "date_modified": true,
     "float": true,
     "file_editor": false,
-    "repo": "justinwalsh/daux.io",
     "ignore": {
             "files": ["Work_In_Progress.md"],
             "folders": ["99_Not_Ready"]
