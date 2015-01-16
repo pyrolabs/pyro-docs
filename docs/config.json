@@ -1,0 +1,27 @@
+{
+    "title": "Pyro",
+    "tagline": "The Easiest Way To Document Your Project",
+    "author": "Pyro Labs",
+    "image": "<base_url>img/app.png",
+    "theme": "daux-blue",
+    "template": "default",
+    "clean_urls": true,
+    "toggle_code": true,
+    "breadcrumbs": true,
+    "breadcrumb_separator": "Chevrons",
+    "date_modified": true,
+    "float": true,
+    "file_editor": false,
+    "repo": "justinwalsh/daux.io",
+    "ignore": {
+            "files": ["Work_In_Progress.md"],
+            "folders": ["99_Not_Ready"]
+    },
+    "twitter": ["prescottprue", "sinbols"],
+    "google_analytics": "UA-12653604-10",
+    "links": {
+        "Library Download": "https://github.com/pyrolabs/PyroLibrary/archive/master.zip",
+        "Library Repo": "https://github.com/pyrolabs/PyroLibrary",
+        "Help/Support/Bugs": "https://github.com/pyrolabs/PyroLibrary/issues"
+    }
+}
