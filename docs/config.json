@@ -3,7 +3,7 @@
     "tagline": "The Easiest Way To build Apps",
     "author": "Pyro Labs",
     "image": "<base_url>img/app.png",
-    "theme": "daux-blue",
+    "theme": "daux-red",
     "template": "default",
     "clean_urls": true,
     "toggle_code": true,
